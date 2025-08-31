@@ -26,4 +26,5 @@ The result is a more reliable and efficient pre-op process that enhances both su
 ![cover](/assets/images/Screw%20Loading%20Module.png)
 
 ### Drawing
-[Open the Screw Loading Module Drawing (PDF)](/assets/pdfs/Screw%20Loading%20Module%20Drawing.pdf)
+![Screw Loading Module Drawing]({{ '/assets/images/IMG_1823.jpg' | relative_url }})
+
