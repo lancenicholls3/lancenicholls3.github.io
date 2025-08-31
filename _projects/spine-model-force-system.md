@@ -2,7 +2,7 @@
 title: "Spine Model Force System"
 subtitle: "Customizable biomechanical spring system for spinal models"
 date: 2025-08-28
-thumbnail: /assets/images/IMG_1625.jpg
+thumbnail: /assets/images/IMG_1635.jpg
 ---
 
 ### Description
