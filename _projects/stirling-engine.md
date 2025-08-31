@@ -17,7 +17,26 @@ My focus on precision allowed the engine to **run smoothly and reliably**, and s
 ![stirling photo](/assets/images/IMG_1805.jpg)
 
 ### Demo Video
-<video controls width="100%">
-  <source src="/assets/images/IMG_9640.mov" type="video/quicktime">
-  Your browser may not support .mov playback; consider converting to .mp4 for maximum compatibility.
+
+<video controls preload="metadata" width="100%">
+  <source src="{{ '/assets/images/IMG_9640.mov' | relative_url }}" type="video/quicktime">
+  Your browser may not support .mov playback. Try the download link below.
 </video>
+
+<p style="margin-top:8px;">
+  Having trouble playing it in the browser?
+  <a href="{{ '/assets/images/IMG_9640.mov' | relative_url }}" download>
+    Download the video (MOV)
+  </a>
+</p>
+
+<!-- Optional: offer an MP4 if you add one later -->
+<!--
+<p>
+  Prefer MP4 for wider compatibility?
+  <a href="{{ '/assets/videos/stirling_demo.mp4' | relative_url }}" download>
+    Download the MP4
+  </a>
+</p>
+-->
+
