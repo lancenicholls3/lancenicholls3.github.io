@@ -1,7 +1,7 @@
 ---
 title: "Precision Machined Stirling Engine"
 subtitle: "Milling, turning, sand casting, sheet metal"
-date: 2025-08-28
+date: 2024-12-20
 thumbnail: /assets/images/IMG_1805.jpg
 ---
 
