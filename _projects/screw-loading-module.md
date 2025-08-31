@@ -1,7 +1,7 @@
 ---
 title: "Screw Loading Module"
 subtitle: "Pre-op verification & layout system"
-date: 2025-07-31
+date: 2025-07-20
 thumbnail: /assets/images/Screw%20Loading%20Module.png
 ---
 
