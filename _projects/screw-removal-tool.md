@@ -1,7 +1,7 @@
 ---
 title: "Screw Removal Tool Redesign"
 subtitle: "Ergonomic, versatile tool for 10+ pedicle screw types"
-date: 2025-08-28
+date: 2025-08-01
 thumbnail: /assets/images/Screw%20Removal%20Tool.png
 ---
 
