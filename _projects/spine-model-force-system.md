@@ -18,10 +18,10 @@ This technical decision allows **demos of nearly any tool or instrument** thanks
 ---
 
 ### Gallery
-![cover](/assets/images/Spine%20Model%20Force%20System.png)
+![cover](/assets/images/IMG_1635.HEIC)
 
+![Spine%20Model%20Force%20System](/assets/images/Spine%20Model%20Force%20System.png)
 ![IMG_1625](/assets/images/IMG_1625.HEIC)
-![IMG_1635](/assets/images/IMG_1635.HEIC)
 
 ### Interactive Model
 
