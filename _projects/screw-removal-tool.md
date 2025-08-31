@@ -27,4 +27,4 @@ The result: a **more adaptable and user-friendly instrument** that streamlines t
 ![cover](/assets/images/Screw%20Removal%20Tool.png)
 
 <!-- HEIC may not show in all browsers; convert to .jpg/.png if needed. -->
-![IMG_1639](/assets/images/IMG_1639.HEIC)
+![IMG_1639](/assets/images/IMG_1639.jpg)
