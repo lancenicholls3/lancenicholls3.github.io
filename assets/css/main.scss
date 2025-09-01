@@ -178,33 +178,40 @@ h1.page__title { margin-top: .5rem; }
   margin: 10px auto 0;
 }
 
-/* Ensure masthead and its menu are on top on mobile */
+/* ----- FIX MOBILE HAMBURGER DROPDOWN ----- */
 @media (max-width: 991.98px) {
+  /* Keep masthead on top so the toggle is clickable */
   .masthead,
   .masthead__inner-wrap,
-  .greedy-nav {
-    position: relative !important;
-    z-index: 3000 !important;
-  }
+  .greedy-nav { position: relative !important; z-index: 3000 !important; }
 
-  /* Sidebar should not cover the masthead on mobile */
-  .sidebar {
-    position: static !important;
-    z-index: 1 !important;
-  }
-
-  /* Make the hamburger clickable and the dropdown visible */
   .greedy-nav__toggle { z-index: 3001 !important; }
+
+  /* Make the dropdown a small menu on the right, not a full-screen veil */
   .greedy-nav .hidden-links {
-    background: #000;           /* match your black bar */
-    border: 0;
+    position: absolute !important;
+    top: 100%;
     right: 0;
+    left: auto !important;
+    width: auto !important;          /* no 100% width overlay */
+    min-width: 180px;
+    max-height: 70vh;                 /* scrolls if long */
+    overflow: auto;
+    display: none;                    /* hidden until toggled */
+    background: #000 !important;      /* black menu to match masthead */
+    border: 0;
+    box-shadow: 0 6px 16px rgba(0,0,0,.35);
+  }
+  /* Show the dropdown only when expanded */
+  .greedy-nav__toggle[aria-expanded="true"] + .hidden-links {
+    display: block !important;
   }
 
-  /* Keep the LinkedIn icon white and sized nicely */
-  .masthead .fab.fa-linkedin-in { font-size: 1.15rem; }
-  .masthead a { color: #fff !important; }
-  .masthead a:hover { color: #ddd !important; }
+  /* Remove the little white arrow/overlay some skins add */
+  .greedy-nav .hidden-links::before,
+  .greedy-nav .hidden-links::after { display: none !important; }
+
+  /* White links inside the dropdown */
+  .greedy-nav .hidden-links a { color: #fff !important; }
+  .greedy-nav .hidden-links a:hover { color: #ddd !important; }
 }
-
-
