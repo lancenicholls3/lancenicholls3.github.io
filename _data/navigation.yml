@@ -12,8 +12,7 @@ main:
         url: /projects/screw-loading-module/
   - title: "Resume"
     url: /resume/
-  - title: "<i class='fab fa-linkedin-in' aria-hidden='true'></i><span class='sr-only'> LinkedIn</span>"
-    url: https://www.linkedin.com/in/lance-nicholls-0421561b4/
+  - title: "<i class='fab fa-linkedin-in' aria-hidden='true'></i>"
+    url: https://www.linkedin.com/in/YOUR-HANDLE/
     external: true
-
 
