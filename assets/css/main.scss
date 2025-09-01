@@ -178,4 +178,33 @@ h1.page__title { margin-top: .5rem; }
   margin: 10px auto 0;
 }
 
+/* Ensure masthead and its menu are on top on mobile */
+@media (max-width: 991.98px) {
+  .masthead,
+  .masthead__inner-wrap,
+  .greedy-nav {
+    position: relative !important;
+    z-index: 3000 !important;
+  }
+
+  /* Sidebar should not cover the masthead on mobile */
+  .sidebar {
+    position: static !important;
+    z-index: 1 !important;
+  }
+
+  /* Make the hamburger clickable and the dropdown visible */
+  .greedy-nav__toggle { z-index: 3001 !important; }
+  .greedy-nav .hidden-links {
+    background: #000;           /* match your black bar */
+    border: 0;
+    right: 0;
+  }
+
+  /* Keep the LinkedIn icon white and sized nicely */
+  .masthead .fab.fa-linkedin-in { font-size: 1.15rem; }
+  .masthead a { color: #fff !important; }
+  .masthead a:hover { color: #ddd !important; }
+}
+
 
