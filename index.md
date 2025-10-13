@@ -8,7 +8,7 @@ sidebar:
 ---
 
 <div style="display:flex; align-items:flex-start; gap:20px; flex-wrap:wrap;">
-  <img src="{{ '/assets/images/IMG_3989.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/IMG_2270.JPG' | relative_url }}"
      alt="Photo of me"
      style="width:300px; height:300px; object-fit:cover; border-radius:50%; overflow:hidden;">
 
