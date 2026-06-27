@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Projects"
+title: "Engineering Projects"
 permalink: /projects/
 sidebar:
   nav: "main"
