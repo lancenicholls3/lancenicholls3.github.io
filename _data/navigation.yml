@@ -1,5 +1,5 @@
 main:
-  - title: "Projects"
+  - title: "Engineering projects Projects"
     url: /projects/
     children:
       - title: "-Spine Model Force System"
@@ -9,7 +9,11 @@ main:
       - title: "-Precision Machined Stirling Engine"
         url: /projects/stirling-engine/
       - title: "-Screw Loading Module"
-        url: /projects/screw-loading-module/
+        url: /projects/screw-loading-module/  
+  - title: "Research"
+    url: /research/
+  - title: "Design & Creative"
+    url: /research/
   - title: "Resume"
     url: /resume/
   - title: "<i class='fab fa-linkedin-in' aria-hidden='true'></i><span class='sr-only'> LinkedIn</span>"
