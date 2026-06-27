@@ -2,13 +2,13 @@ main:
   - title: "Engineering Projects"
     url: /projects/
     children:
-      - title: "-Spine Model Force System"
+      - title: "Spine Model Force System"
         url: /projects/spine-model-force-system/
-      - title: "-Screw Removal Tool Redesign"
+      - title: "Screw Removal Tool Redesign"
         url: /projects/screw-removal-tool/
-      - title: "-Precision Machined Stirling Engine"
+      - title: "Precision Machined Stirling Engine"
         url: /projects/stirling-engine/
-      - title: "-Screw Loading Module"
+      - title: "Screw Loading Module"
         url: /projects/screw-loading-module/  
   - title: "Research"
     url: /research/
