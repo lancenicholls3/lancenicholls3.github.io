@@ -243,16 +243,26 @@ h1.page__title { margin-top: .5rem; }
   justify-content: center;
 }
 
-.hero-image-block img {
-  width: 100%;
-  max-width: 340px;
+.hero-image-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-photo-card {
+  padding: 14px;
+  background: white;
+  border-radius: 28px;
+  box-shadow: 0 18px 40px rgba(0,0,0,.18);
+}
+
+.hero-photo-card img {
+  display: block;
+  width: 340px;
   height: 430px;
   object-fit: cover;
   object-position: center 25%;
-  border-radius: 24px;
-  padding: 10px;
-  background: white;
-  box-shadow: 0 18px 40px rgba(0,0,0,.18);
+  border-radius: 18px;
 }
 
 .home-about-redesign,
