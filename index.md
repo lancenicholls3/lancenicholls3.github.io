@@ -1,3 +1,4 @@
+
 ---
 layout: single
 title: ""
@@ -77,6 +78,19 @@ sidebar:
       <p>Shoe concepts, product design ideas, graphic design, and photography.</p>
     </a>
   </div>
+</section>
+
+<section class="home-resume-redesign">
+  <h2>Resume</h2>
+
+  <p>
+    Interested in learning more about my engineering experience, research, and technical skills?
+    View my full resume below.
+  </p>
+
+  <a href="/resume/" class="resume-button">
+    View Resume
+  </a>
 </section>
 
 <section class="home-gallery-redesign">
