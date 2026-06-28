@@ -28,11 +28,11 @@ classes: wide
       Stephen F. Badylak, William R. Wagner, Julie A. Phillippi, and Antonio D'Amore
     </p>
 
-    <a class="publication-button" href="/assets/papers/vascular-graft-paper.pdf" target="_blank">View Paper PDF</a>
+    <a class="publication-button" href="/assets/pdfs/vascular-graft-paper.pdf" target="_blank">View Paper PDF</a>
   </div>
 
   <figure class="publication-figure">
-    <img src="/assets/research/vascular-graft-paper.jpeg" alt="Overview of three-layer vascular graft configurations">
+    <img src="/assets/images/vascular-graft-paper.png" alt="Overview of three-layer vascular graft configurations">
     <figcaption>
       Featured figure showing the ACR and ICR three-layer vascular graft configurations, including schematic design,
       macroscopic evaluation, microscopic evaluation, and suture retention testing.
