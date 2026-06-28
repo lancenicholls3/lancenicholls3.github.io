@@ -80,28 +80,12 @@ sidebar:
 </section>
 
 <section class="home-gallery-redesign">
-  <h2>Photography</h2>
+  <h2>Gallery</h2>
 
   <div class="home-photo-grid">
-    <img src="{{ '/assets/images/IMG_0040.JPG' | relative_url }}" alt="Photography sample">
-    <img src="{{ '/assets/images/IMG_0496.jpg' | relative_url }}" alt="Photography sample">
-    <img src="{{ '/assets/images/IMG_6609.JPG' | relative_url }}" alt="Photography sample">
-    <img src="{{ '/assets/images/IMG_7506.jpg' | relative_url }}" alt="Photography sample">
+    <img src="{{ '/assets/images/IMG_0040.JPG' | relative_url }}" alt="Gallery image">
+    <img src="{{ '/assets/images/IMG_0496.jpg' | relative_url }}" alt="Gallery image">
+    <img src="{{ '/assets/images/IMG_6609.JPG' | relative_url }}" alt="Gallery image">
+    <img src="{{ '/assets/images/IMG_7506.jpg' | relative_url }}" alt="Gallery image">
   </div>
-</section>      fuels my curiosity about human performance, resilience, and design. I aim to build a career in industry developing
-      innovative biomechanical technologies, whether it be performance footwear that pushes human potential or medical
-      devices that improve lives.
-    </p>
-        
-    </div>
-</div>
-
-
----
-
-### Gallery
-
-<img src="{{ '/assets/images/IMG_0040.JPG' | relative_url }}" style="width:200px; height:200px; object-fit:cover; margin:5px;">
-<img src="{{ '/assets/images/IMG_0496.jpg' | relative_url }}" style="width:200px; height:200px; object-fit:cover; margin:5px;">
-<img src="{{ '/assets/images/IMG_6609.JPG' | relative_url }}" style="width:200px; height:200px; object-fit:cover; margin:5px;">
-<img src="{{ '/assets/images/IMG_7506.jpg' | relative_url }}" style="width:200px; height:200px; object-fit:cover; margin:5px;">
+</section>
