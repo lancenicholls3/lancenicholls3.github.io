@@ -8,8 +8,6 @@ sidebar:
   nav: "main"
 ---
 
-# Under Armour Recover+
-
 **Senior Design Project with Under Armour**  
 **Role:** Project Manager & Mechanical Design Lead   
 
