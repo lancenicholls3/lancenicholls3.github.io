@@ -35,9 +35,9 @@ sidebar:
   </div>
 
   <div class="hero-image-block">
-    <div class="hero-photo-card">
-        <img src="..." alt="Photo of me">
-    </div>
+  <div class="hero-photo-card">
+    <img src="{{ '/assets/images/IMG_2270.JPG' | relative_url }}" alt="Photo of me">
+  </div>
 </div>
 </section>
 
