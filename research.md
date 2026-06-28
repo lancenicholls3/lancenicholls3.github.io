@@ -7,7 +7,6 @@ classes: wide
 sidebar:
   nav: "main"
 ---
-
 <section class="research-hero">
   <p class="research-kicker">Published Research</p>
   <p>
@@ -15,7 +14,6 @@ sidebar:
     I enjoy combining engineering principles with computational tools to better understand how engineered systems interact with the human body.
   </p>
 </section>
-
 <section class="publication-card">
   <div class="publication-header">
     <p class="publication-status">Accepted for publication · Journal information coming soon</p>
