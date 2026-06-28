@@ -269,9 +269,9 @@ body {
 }
 
 .home-hero-redesign {
-  max-width: none;
+  max-width: 1280px;
   margin: 0;
-  padding: 2rem 1rem 0rem 0;
+  padding: 2rem 1rem 0rem;
   display: grid;
   grid-template-columns: minmax(0, 1.8fr) 340px;
   gap: 2rem;
