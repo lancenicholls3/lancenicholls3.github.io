@@ -242,27 +242,35 @@ body {
   white-space: nowrap;
 }
 
-.hero-button.primary {
+.hero-button.primary,
+.hero-button.secondary {
   background: #111111;
   color: #ffffff !important;
+  border: 1px solid #111111;
+  transition: transform 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
 }
 
-.hero-button.secondary {
-  border: 1px solid #111111;
-  color: #111111 !important;
-  background: #ffffff;
+.hero-button.primary:hover,
+.hero-button.secondary:hover {
+  background: #333333;
+  color: #ffffff !important;
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
 }
 
 .hero-image-block {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  position: sticky;
+  top: 120px;
+  align-self: start;
 }
 
 .hero-photo-card {
   padding: 0;
   background: transparent;
-  border-radius: 0;
+  border-radius: 50%;
   box-shadow: none;
   transform: none;
 }
@@ -277,7 +285,7 @@ body {
   height: 340px;
   object-fit: cover;
   object-position: center 25%;
-  border-radius: 0;
+  border-radius: 50%;
 }
 
 .home-about-redesign,
