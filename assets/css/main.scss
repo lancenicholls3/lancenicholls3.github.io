@@ -689,3 +689,59 @@ body {
     padding: 1.25rem;
   }
 }
+
+/* ===== Photography Gallery ===== */
+
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+  margin: 2rem auto;
+}
+
+.photo-gallery img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 18px;
+  cursor: pointer;
+
+  transition:
+      transform .25s ease,
+      box-shadow .25s ease,
+      filter .25s ease;
+}
+
+.photo-gallery img:hover {
+
+  transform: scale(1.03);
+
+  box-shadow: 0 16px 36px rgba(0,0,0,.18);
+
+  filter: brightness(1.05);
+
+}
+
+@media (max-width:1000px){
+
+.photo-gallery{
+grid-template-columns:repeat(3,1fr);
+}
+
+}
+
+@media (max-width:700px){
+
+.photo-gallery{
+grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+@media (max-width:500px){
+
+.photo-gallery{
+grid-template-columns:1fr;
+}
+
+}
