@@ -331,8 +331,10 @@ body {
   align-items: flex-start;
   align-self: start;
 
-  position: relative;
-  top: 3rem;
+  position: sticky;
+  top: 180px;
+
+  padding-top: 2rem;
 }
 
 .hero-photo-card {
@@ -526,9 +528,36 @@ body {
     padding-right: 1rem;
   }
 
+  .hero-image-block {
+
+    position: static;
+
+    top: auto;
+
+    padding-top: 1rem;
+
+    justify-content: center;
+
+    align-items: center;
+
+    width: 100%;
+
+    margin: 1rem auto 2rem;
+
+  }
+
+  .hero-photo-card {
+
+    margin: 0 auto;
+
+  }
+
   .hero-photo-card img {
+
     width: 260px;
+
     height: 260px;
+
   }
   .home-photo-grid img:hover {
 
@@ -537,9 +566,7 @@ body {
     box-shadow: 0 12px 28px rgba(0,0,0,.18);
 
 }
-  .hero-photo-card {
-  margin: 0 auto;
-}
+  
 
   .feature-grid,
   .feature-grid.two-column,
