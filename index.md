@@ -9,15 +9,23 @@ sidebar:
 
 <section class="home-hero-redesign">
   <div class="hero-text-block">
-    <p class="hero-kicker">Mechanical Engineering · Biomechanics · Human-Centered Design</p>
+    <p class="hero-kicker"> Engineering · Biomechanics · Human-Centered Design</p>
 
     <h1>Designing products that improve how people move, perform, and experience the world.</h1>
 
     <p class="hero-subtitle">
-      I’m a senior at Johns Hopkins majoring in Mechanical Engineering with minors in
-      Psychology and Applied Math & Statistics, and I compete on the varsity cross-country
-      and track teams.
+      I’m a master's student at Johns Hopkins studying Mechanical Engineering with a biomechanics focus. 
+      During my undergraduate degree, I competed on the varsity cross-country and track teams, and 
+      completed minors in Psychology and Applied Math & Statistics. My experience as an athlete sparked 
+      a passion for biomechanics, which I’ve explored through research and hands-on engineering projects.
     </p>
+
+    <p>
+    Outside the lab and classroom, I’m deeply passionate about nature and exploring the outdoors, which
+    fuels my curiosity about human performance, resilience, and design. I aim to build a career in industry developing
+    innovative biomechanical technologies, whether it be performance footwear that pushes human potential or medical
+    devices that improve lives.
+  </p>
 
     <div class="hero-buttons">
       <a href="/projects/" class="hero-button primary">Engineering Projects</a>
@@ -31,21 +39,6 @@ sidebar:
   </div>
 </section>
 
-<section class="home-about-redesign">
-  <h2>About</h2>
-
-  <p>
-    My experience as an athlete sparked a passion for biomechanics, which I’ve explored
-    through research and hands-on engineering projects.
-  </p>
-
-  <p>
-    Outside the lab and classroom, I’m deeply passionate about nature and exploring the outdoors, which
-    fuels my curiosity about human performance, resilience, and design. I aim to build a career in industry developing
-    innovative biomechanical technologies, whether it be performance footwear that pushes human potential or medical
-    devices that improve lives.
-  </p>
-</section>
 
 <section class="home-featured-redesign">
   <h2>Featured Work</h2>
