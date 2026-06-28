@@ -14,7 +14,7 @@ sidebar:
 **Role:** Project Manager & Mechanical Design Lead  
 **Team:** Cameron Bradford, Lanre Famakinwa, Lance Nicholls, Connie Weng  
 
-<a class="project-button" href="/assets/projects/under-armour-recover-plus.pdf" target="_blank">View Public Poster</a>
+<a class="project-button" href="/assets/pdfs/under-armour-recover-plus.pdf" target="_blank">View Public Poster</a>
 
 ## Overview
 
