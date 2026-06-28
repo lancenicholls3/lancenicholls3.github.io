@@ -1,5 +1,4 @@
 main:
-  main:
   - title: "Engineering Projects"
     url: /projects/
     children:
