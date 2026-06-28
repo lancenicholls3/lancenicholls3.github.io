@@ -329,10 +329,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  position: sticky;
-  top: 190px;
   align-self: start;
-  max-height: 210px;
+
+  position: relative;
+  top: 3rem;
 }
 
 .hero-photo-card {
@@ -343,14 +343,10 @@ body {
   transform: none;
 }
 
-.hero-photo-card:hover {
-  transform: none;
-}
-
 .hero-photo-card img {
   display: block;
-  width: 340px;
-  height: 340px;
+  width: 285px;
+  height: 285px;
   object-fit: cover;
   object-position: center 25%;
   border-radius: 50%;
