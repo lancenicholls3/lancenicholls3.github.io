@@ -187,12 +187,12 @@ body {
 
 .home-hero-redesign {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 4rem 2rem 3rem;
+  margin: 0;
+  padding: 2rem 2rem 2rem;
   display: grid;
-  grid-template-columns: minmax(0, 1.8fr) 360px;
-  gap: 3rem;
-  align-items: center;
+  grid-template-columns: minmax(0, 1.8fr) 340px;
+  gap: 2rem;
+  align-items: start;
 }
 
 .hero-text-block {
@@ -226,20 +226,34 @@ body {
 
 .hero-buttons {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0.75rem;
+  margin-top: 1.25rem;
+  width: 100%;
 }
 
 .hero-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex: 1;
   min-width: max-content;
   padding: 0.8rem 1.15rem;
   border-radius: 999px;
   font-weight: 700;
   text-decoration: none !important;
   white-space: nowrap;
+  background: #111111;
+  color: #ffffff !important;
+  border: 1px solid #111111;
+  transition: transform 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hero-button:hover {
+  background: #333333;
+  color: #ffffff !important;
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
 }
 
 .hero-button.primary,
@@ -265,6 +279,7 @@ body {
   position: sticky;
   top: 120px;
   align-self: start;
+  max-height: 380px;
 }
 
 .hero-photo-card {
