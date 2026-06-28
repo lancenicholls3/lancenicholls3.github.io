@@ -377,6 +377,7 @@ body {
   }
 
   .hero-image-block {
+    position: static;
     justify-content: flex-start;
   }
 }
@@ -391,8 +392,8 @@ body {
   }
 
   .hero-photo-card img {
-    width: 280px;
-    height: 280px;
+    width: 260px;
+    height: 260px;
   }
 
   .feature-grid,
@@ -403,6 +404,14 @@ body {
 
   .home-photo-grid img {
     height: auto;
+  }
+
+  .hero-buttons {
+    gap: 0.6rem;
+  }
+
+  .hero-button {
+    width: 100%;
   }
 }
 
