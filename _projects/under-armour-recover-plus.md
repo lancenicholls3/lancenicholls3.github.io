@@ -11,6 +11,10 @@ sidebar:
 **Senior Design Project with Under Armour**  
 **Role:** Project Manager & Mechanical Design Lead   
 
+## Public Poster
+
+![Under Armour Recover+ public senior design poster](/assets/images/under-armour-recover-plus.png)
+
 <a class="project-button" href="/assets/pdfs/under-armour-recover-plus.pdf" target="_blank">View Public Poster</a>
 
 ## Overview
@@ -50,9 +54,6 @@ I also contributed heavily to the mechanical design work for the shoe, including
   <span>Design for Manufacturing</span>
 </div>
 
-## Public Poster
-
-![Under Armour Recover+ public senior design poster](/assets/images/under-armour-recover-plus.png)
 
 ## External Link
 
