@@ -471,6 +471,40 @@ body {
 
 }
 
+.home-resume-redesign {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  text-align: center;
+}
+
+.home-resume-redesign h2 {
+  margin-bottom: .5rem;
+}
+
+.home-resume-redesign p {
+  max-width: 650px;
+  margin: 0 auto 1.25rem;
+  color: #444;
+}
+
+.resume-button {
+  display: inline-block;
+  background: #111;
+  color: white !important;
+  text-decoration: none !important;
+  padding: .9rem 1.6rem;
+  border-radius: 999px;
+  font-weight: 700;
+  transition: all .25s ease;
+}
+
+.resume-button:hover {
+  background: #333;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0,0,0,.18);
+}
+
 @media (max-width: 1050px) {
   .hero-kicker {
     white-space: normal;
@@ -500,6 +534,16 @@ body {
     width: 260px;
     height: 260px;
   }
+  .home-photo-grid img:hover {
+
+    transform: scale(1.02);
+
+    box-shadow: 0 12px 28px rgba(0,0,0,.18);
+
+}
+  .hero-photo-card {
+  margin: 0 auto;
+}
 
   .feature-grid,
   .feature-grid.two-column,
