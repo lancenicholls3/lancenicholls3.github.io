@@ -245,26 +245,24 @@ h1.page__title { margin-top: .5rem; }
 }
 
 .hero-photo-card {
-  padding: 14px;
-  background: white;
-  border-radius: 28px;
-  box-shadow: 0 18px 40px rgba(0,0,0,.18);
-
-  transform: rotate(2deg);
-  transition: transform 0.25s ease;
+  padding: 0;
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+  transform: none;
 }
 
 .hero-photo-card:hover {
-  transform: rotate(0deg) scale(1.02);
+  transform: none;
 }
 
 .hero-photo-card img {
   display: block;
-  width: 340px;
-  height: 430px;
+  width: 360px;
+  height: 360px;
   object-fit: cover;
   object-position: center 25%;
-  border-radius: 18px;
+  border-radius: 0;
 }
 
 .home-about-redesign,
@@ -347,8 +345,9 @@ h1.page__title { margin-top: .5rem; }
     padding-top: 3rem;
   }
 
-  .hero-image-block img {
-    max-width: 260px;
+  .hero-photo-card img {
+    width: 260px;
+    height: 260px;
   }
 
   .home-photo-grid img {
