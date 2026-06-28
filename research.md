@@ -10,7 +10,6 @@ sidebar:
 
 <section class="research-hero">
   <p class="research-kicker">Published Research</p>
-  <h1>Research</h1>
   <p>
     My research focuses on biomechanics, tissue engineering, and quantitative analysis of medical devices and biomaterials.
     I enjoy combining engineering principles with computational tools to better understand how engineered systems interact with the human body.
