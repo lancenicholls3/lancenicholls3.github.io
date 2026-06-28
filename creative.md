@@ -2,7 +2,10 @@
 title: "Design & Creative"
 permalink: /creative/
 layout: single
-author_profile: true
+author_profile: false
+classes: wide
+sidebar:
+  nav: "main"
 ---
 
 # Design & Creative
