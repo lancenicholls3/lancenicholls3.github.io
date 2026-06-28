@@ -3,7 +3,7 @@ layout: single
 title: "Under Armour Recover+"
 permalink: /projects/under-armour-recover-plus/
 date: 2026-06-28
-thumbnail: /assets/projects/under-armour-recover-plus.jpg
+thumbnail: /assets/images/under-armour-recover-plus.jpg
 sidebar:
   nav: "main"
 ---
@@ -11,8 +11,7 @@ sidebar:
 # Under Armour Recover+
 
 **Senior Design Project with Under Armour**  
-**Role:** Project Manager & Mechanical Design Lead  
-**Team:** Cameron Bradford, Lanre Famakinwa, Lance Nicholls, Connie Weng  
+**Role:** Project Manager & Mechanical Design Lead   
 
 <a class="project-button" href="/assets/pdfs/under-armour-recover-plus.pdf" target="_blank">View Public Poster</a>
 
@@ -55,7 +54,7 @@ I also contributed heavily to the mechanical design work for the shoe, including
 
 ## Public Poster
 
-![Under Armour Recover+ public senior design poster](/assets/projects/under-armour-recover-plus.png)
+![Under Armour Recover+ public senior design poster](/assets/images/under-armour-recover-plus.png)
 
 ## External Link
 
