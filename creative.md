@@ -8,8 +8,6 @@ sidebar:
   nav: "main"
 ---
 
-# Design & Creative
-
 This page highlights my creative work across product concepts  and photography.
 
 
