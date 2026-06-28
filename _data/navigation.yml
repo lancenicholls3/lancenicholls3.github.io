@@ -1,21 +1,32 @@
 main:
+  main:
   - title: "Engineering Projects"
     url: /projects/
     children:
+      - title: "Under Armour Recover+"
+        url: /projects/under-armour-recover-plus/
+
       - title: "Spine Model Force System"
         url: /projects/spine-model-force-system/
+
       - title: "Screw Removal Tool Redesign"
         url: /projects/screw-removal-tool/
+
       - title: "Precision Machined Stirling Engine"
         url: /projects/stirling-engine/
+
       - title: "Screw Loading Module"
-        url: /projects/screw-loading-module/  
+        url: /projects/screw-loading-module/
+
   - title: "Research"
     url: /research/
+
   - title: "Design & Creative"
     url: /creative/
+
   - title: "Resume"
     url: /resume/
+  
   - title: "<i class='fab fa-linkedin-in' aria-hidden='true'></i><span class='sr-only'> LinkedIn</span>"
     url: https://www.linkedin.com/in/YOUR-HANDLE/
     external: true
