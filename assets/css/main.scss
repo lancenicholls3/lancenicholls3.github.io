@@ -188,7 +188,7 @@ body {
 .home-hero-redesign {
   max-width: 1280px;
   margin: 0;
-  padding: 2rem 2rem 2rem;
+  padding: 2rem 1rem 2rem;
   display: grid;
   grid-template-columns: minmax(0, 1.8fr) 340px;
   gap: 2rem;
@@ -277,9 +277,9 @@ body {
   justify-content: center;
   align-items: flex-start;
   position: sticky;
-  top: 120px;
+  top: 165px;
   align-self: start;
-  max-height: 380px;
+  max-height: 260px;
 }
 
 .hero-photo-card {
@@ -308,7 +308,7 @@ body {
 .home-gallery-redesign {
   max-width: 1180px;
   margin: 0 auto;
-  padding: 2.5rem 2rem;
+  padding: 1.25rem 1rem;
 }
 
 .home-about-redesign {
@@ -319,7 +319,7 @@ body {
 .home-featured-redesign h2,
 .home-gallery-redesign h2 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   color: #111111;
 }
 
@@ -333,7 +333,7 @@ body {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
-  margin-top: 1.25rem;
+  margin-top: 0.75rem;
 }
 
 .feature-grid.two-column {
