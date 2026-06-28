@@ -15,37 +15,37 @@ This page highlights my creative work across product concepts  and photography.
 
 <div class="photo-gallery">
 
-<img src="{{ '/assets/images/img_1.jpg' | relative_url }}" alt="Photo 1">
+<img src="{{ '/assets/images/IMG_1.jpg' | relative_url }}" alt="Photo 1">
 
-<img src="{{ '/assets/images/img_2.jpg' | relative_url }}" alt="Photo 2">
+<img src="{{ '/assets/images/IMG_2.jpg' | relative_url }}" alt="Photo 2">
 
-<img src="{{ '/assets/images/img_3.jpg' | relative_url }}" alt="Photo 3">
+<img src="{{ '/assets/images/IMG_3.jpg' | relative_url }}" alt="Photo 3">
 
-<img src="{{ '/assets/images/img_4.jpg' | relative_url }}" alt="Photo 4">
+<img src="{{ '/assets/images/IMG_4.jpg' | relative_url }}" alt="Photo 4">
 
-<img src="{{ '/assets/images/img_5.jpg' | relative_url }}" alt="Photo 5">
+<img src="{{ '/assets/images/IMG_5.jpg' | relative_url }}" alt="Photo 5">
 
-<img src="{{ '/assets/images/img_6.jpg' | relative_url }}" alt="Photo 6">
+<img src="{{ '/assets/images/IMG_6.jpg' | relative_url }}" alt="Photo 6">
 
-<img src="{{ '/assets/images/img_7.jpg' | relative_url }}" alt="Photo 7">
+<img src="{{ '/assets/images/IMG_7.jpg' | relative_url }}" alt="Photo 7">
 
-<img src="{{ '/assets/images/img_8.jpg' | relative_url }}" alt="Photo 8">
+<img src="{{ '/assets/images/IMG_8.jpg' | relative_url }}" alt="Photo 8">
 
-<img src="{{ '/assets/images/img_9.jpg' | relative_url }}" alt="Photo 9">
+<img src="{{ '/assets/images/IMG_9.jpg' | relative_url }}" alt="Photo 9">
 
-<img src="{{ '/assets/images/img_10.jpg' | relative_url }}" alt="Photo 10">
+<img src="{{ '/assets/images/IMG_10.jpg' | relative_url }}" alt="Photo 10">
 
-<img src="{{ '/assets/images/img_11.jpg' | relative_url }}" alt="Photo 11">
+<img src="{{ '/assets/images/IMG_11.jpg' | relative_url }}" alt="Photo 11">
 
-<img src="{{ '/assets/images/img_12.jpg' | relative_url }}" alt="Photo 12">
+<img src="{{ '/assets/images/IMG_12.jpg' | relative_url }}" alt="Photo 12">
 
-<img src="{{ '/assets/images/img_13.jpg' | relative_url }}" alt="Photo 13">
+<img src="{{ '/assets/images/IMG_13.jpg' | relative_url }}" alt="Photo 13">
 
-<img src="{{ '/assets/images/img_14.jpg' | relative_url }}" alt="Photo 14">
+<img src="{{ '/assets/images/IMG_14.jpg' | relative_url }}" alt="Photo 14">
 
-<img src="{{ '/assets/images/img_15.jpg' | relative_url }}" alt="Photo 15">
+<img src="{{ '/assets/images/IMG_15.jpg' | relative_url }}" alt="Photo 15">
 
-<img src="{{ '/assets/images/img_16.jpg' | relative_url }}" alt="Photo 16">
+<img src="{{ '/assets/images/IMG_16.jpg' | relative_url }}" alt="Photo 16">
 
 </div>
 
