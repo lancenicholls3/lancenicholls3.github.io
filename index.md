@@ -11,7 +11,7 @@ sidebar:
   <div class="hero-text-block">
     <p class="hero-kicker"> Engineering · Biomechanics · Human-Centered Design</p>
 
-    <h1>Designing products that improve how people move, perform, and experience the world.</h1>
+    <h1>About me.</h1>
 
     <p class="hero-subtitle">
       I’m a master's student at Johns Hopkins studying Mechanical Engineering with a biomechanics focus. 
