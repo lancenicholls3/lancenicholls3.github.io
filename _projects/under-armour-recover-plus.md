@@ -3,7 +3,7 @@ layout: single
 title: "Under Armour Recover+"
 permalink: /projects/under-armour-recover-plus/
 date: 2026-06-28
-thumbnail: /assets/images/under-armour-recover-plus.jpg
+thumbnail: /assets/images/under-armour-recover-plus.png
 sidebar:
   nav: "main"
 ---
