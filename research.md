@@ -4,6 +4,8 @@ permalink: /research/
 layout: single
 author_profile: false
 classes: wide
+sidebar:
+  nav: "main"
 ---
 
 <section class="research-hero">
