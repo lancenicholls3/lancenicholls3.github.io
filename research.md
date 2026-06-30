@@ -12,10 +12,8 @@ sidebar:
 </section>
 <section class="publication-card">
   <div class="publication-header">
-    <p class="publication-status">Accepted for publication · Journal information coming soon</p>
-
     <h2>Bioinspired Structural Heterogeneity Directs Host Remodeling and Limits Intimal Hyperplasia in Small-Diameter Vascular Grafts</h2>
-
+    <p class="publication-status">Accepted for publication · Journal information coming soon</p>
     <p class="publication-authors">
       Marianna Barbuto, Arianna Adamo, Beatrice Di Caccamo, Laura Modica De Mohac, Taro Fujii,
       Keishi Kohyama, William D'Angelo, Tara Richards, Carlo Mannina, Amber Wish,
