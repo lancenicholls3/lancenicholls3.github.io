@@ -21,7 +21,7 @@ classes: wide
       I’m a combined bachelor's ('26) and master's ('27) student at Johns Hopkins majoring in Mechanical Engineering with minors in Psychology and Applied Math & Statistics, and I compete on the varsity cross-country and track teams. My experience as an athlete sparked a passion for biomechanics, which I’ve explored through research and hands-on engineering projects.
     </p>
     <p>
-      Outside the lab and classroom, I’m deeply passionate about nature and exploring the outdoors, which fuels my curiosity about human performance, resilience, and design. I aim to build a career in industry developing innovative biomechanical technologies—from performance footwear that pushes human potential to medical devices that improve lives.
+      Outside the lab and classroom, I’m deeply passionate about nature and exploring the outdoors, which fuels my curiosity about human performance, resilience, and design. I aim to build a career in industry developing innovative biomechanical technologies, from performance footwear that pushes human potential to medical devices that improve lives.
     </p>
   </div>
 
