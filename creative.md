@@ -48,11 +48,6 @@ This page highlights my creative work across product concepts  and photography.
 <img src="{{ '/assets/images/IMG_16.jpg' | relative_url }}" alt="Photo 16">
 
 </div>
-
-## Shoe Concepts
-
-Concept sketches, footwear ideas, product design explorations, and athletic design work.
-
 <div class="gallery-grid">
   <img src="/assets/shoes/concept-1.jpg" alt="Shoe concept 1">
   <img src="/assets/shoes/concept-2.jpg" alt="Shoe concept 2">
