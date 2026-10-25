@@ -143,7 +143,7 @@ sidebar:
   <figure class="publication-figure">
 
     <img
-      src="{{ '/assets/images/research_1.jpg' | relative_url }}"
+      src="{{ '/assets/images/research_1.png' | relative_url }}"
       alt="Cadaveric patellofemoral biomechanics experimental setup"
       loading="lazy">
 
@@ -187,7 +187,7 @@ sidebar:
   <figure class="publication-figure">
 
     <img
-      src="{{ '/assets/images/research_2.jpg' | relative_url }}"
+      src="{{ '/assets/images/research_2.png' | relative_url }}"
       alt="Patellofemoral contact pressure heat maps"
       loading="lazy">
 
