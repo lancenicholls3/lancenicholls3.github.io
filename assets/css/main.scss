@@ -882,3 +882,53 @@ left:30px;
 right:30px;
 
 }
+
+
+/* ===== Biomechanics Research Enhancements ===== */
+
+.publication-citation {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: #555;
+  border-left: 3px solid #333;
+  padding-left: 1rem;
+}
+
+.publication-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.publication-figure figcaption {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: #666;
+}
+
+.publication-section ul {
+  padding-left: 1.5rem;
+}
+
+.publication-section li {
+  margin-bottom: 0.6rem;
+  line-height: 1.6;
+}
+
+/* Mobile adjustments */
+
+@media (max-width: 700px) {
+  .publication-card {
+    padding: 1.25rem;
+  }
+
+  .publication-figure {
+    padding: 0.5rem;
+  }
+
+  .publication-header h2 {
+    line-height: 1.15;
+  }
+}
+
