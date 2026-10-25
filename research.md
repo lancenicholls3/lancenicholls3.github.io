@@ -126,6 +126,16 @@ sidebar:
       Accepted for poster presentation
     </p>
 
+    
+<a
+  href="{{ '/assets/papers/pf-quad-harvest-study.pdf' | relative_url }}"
+  class="publication-button"
+  target="_blank"
+  rel="noopener noreferrer">
+  View Research Paper
+</a>
+
+
   </div>
 
   <!-- FIGURE 1: EXPERIMENTAL SETUP -->
